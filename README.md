@@ -6,7 +6,7 @@
 - 登录用户个人简介修改，个人博客增删查改
 
 ### bug
-- 无法查看上次登录时间
+- 无法查看上次登录时间（已设置）
 - page翻页没有实现
 - 路由views运行时报错AssertionError: View function mapping is overwriting an existing endpoint function: login（但功能正常）
 
