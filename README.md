@@ -10,5 +10,7 @@
 - page翻页没有实现
 - 路由views运行时报错AssertionError: View function mapping is overwriting an existing endpoint function: login（但功能正常）
 
+第一次运行可能需要db.creat_all()
+
 [csdn教程1](https://blog.csdn.net/u014793102/column/info/33918)有坑
 [csdn教程2](https://blog.csdn.net/yz764127031/article/details/77943775)参考html
